@@ -15,7 +15,10 @@ homework_mayaAssem/
 │   ├── cleaned_orders.parquet
 │   └── city_revenue.csv
 ├── screenshots/
+│   ├── hdfs_bronze.png  
+│   ├── hdfs_fsck.png 
 └── sql/
+│   └── part2_queries.sql 
 ```
 
 ## Notebook Analysis
